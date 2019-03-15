@@ -1,0 +1,93 @@
+.register-form{
+   padding-left: 15%;
+}
+.signUp-mar{
+    margin-top: 15px;
+}
+.login-margin{
+   margin: 21px;
+}
+.bt-menu{
+  float: left;
+    min-width: 115px;
+    height: 70px;
+    border-right: 1px solid #E6EAEA;
+    color: #202121;
+    cursor: pointer;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+  .padding-non{
+      padding:0;
+  }
+ .menu-sty{
+       margin: 4px;
+    font-size: 20px;
+ }
+ .icon-sty{
+         font-size: 1.5rem;
+    color: #42a5f5;
+ }
+ .mod-sty{
+ padding: 57px;
+ }
+ .register{
+     color:#49c5b6;
+ }
+ .register-inp{
+         display: block;
+    height: 60px;
+    padding: 0 15px;
+    background: #fff;
+    border: 1px solid #DBE0DF;
+    transition: all 0.3s ease-in-out;
+ }
+ .Sign-sty{
+     font-size:1.25rem;
+ }
+ .back-colr-modal{
+       background-color: #f4f7f6;
+ }
+ .keep-colr{
+     color:#A6ABAB;
+ }
+ .register-inp2{
+     position: relative;
+    display: inline-block;
+    height: 60px;
+    padding: 0 35px;
+    background-color: #49c5b6;
+    color: #fff;
+    line-height: 63px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    border: none;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+ }
+ .forgot-pwd{
+         display: inline-block;
+    color: #49c5b6 !important;
+    border-bottom: 1px solid rgba(73,197,182,0.5);
+    line-height: normal;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+
+ }
+ .mod-body-pad{
+     padding:6%;
+ }
+ .side-pad{
+     padding-right: 0;
+ }
+ .side-pad2{
+     padding-left: 0;
+ }
+ .line-top{
+     margin-top:   9px; 
+ }
+ .logo-imag{
+    width: 32%;
+ }
